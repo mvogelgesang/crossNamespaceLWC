@@ -1,0 +1,26 @@
+{
+  "packageDirectories": [
+    {
+      "path": "force-app",
+      "package": "combinedGreeting",
+      "versionName": "ver 0.1",
+      "versionNumber": "0.1.0.NEXT",
+      "default": true,
+      "versionDescription": "An example app that is dependent upon a package from another namespace and uses the dependent package in their implementation.",
+      "dependencies": [
+        {
+          "package": "04tHs000000BxUBIA0"
+        }
+      ]
+    }
+  ],
+  "name": "20240228_40219497-crossNamespaceLWCConsumer",
+  "namespace": "mvpbo3",
+  "sfdcLoginUrl": "https://login.salesforce.com",
+  "sourceApiVersion": "59.0",
+  "packageAliases": {
+    "combinedGreeting": "0HoHs000000blhLKAQ",
+    "combinedGreeting@0.1.0-1": "04tHs000000BxULIA0",
+    "combinedGreeting@0.1.0-2": "04tHs000000BxUQIA0"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "packageDirectories": [
+    {
+      "path": "force-app",
+      "default": true,
+      "package": "greeting",
+      "versionName": "ver 0.1",
+      "versionNumber": "0.1.0.NEXT",
+      "versionDescription": ""
+    }
+  ],
+  "name": "20240228_40219497-crossNamespaceLWC-a",
+  "namespace": "mvpbo2",
+  "sfdcLoginUrl": "https://login.salesforce.com",
+  "sourceApiVersion": "59.0",
+  "packageAliases": {
+    "greeting": "0HoHs000000blhBKAQ",
+    "greeting@0.1.0-1": "04tHs000000BxUBIA0"
+  }
+}
